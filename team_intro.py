@@ -44,7 +44,7 @@ def introduction_page():
         #{"name": "Tom Jansen", "image_path": "images/tom.jpg"},
         #{"name": "Yousef Rimawi", "image_path": "images/yousef.jpg"},
         #{"name": "Luke Mercouris", "image_path": "images/luke.jpg"},
-        {"name": "Estefanía Vizcaíno Bickford", "image_path": "estefy.JPG"},
+        {"name": "Estefanía Vizcaíno Bickford", "image_path": "estefy.jpg"},
     ]
     
     for member in team_members:
